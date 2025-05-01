@@ -1,18 +1,17 @@
 ---
 layout: project_page
 permalink: /
-title: "SIDL: A Real-World Dataset for Restoring Smartphone Images with Dirty Lenses"
-presentation: "AAAI 2025"
+title: "OVERLORD CHAMPIONSHIP"
+presentation: "Trinity 2025"
 authors:
-  - Sooyoung Choi*
-  - Sungyong Park*
-  - Heewon Kim
+  - Seunghee Oh * 
+  - Hyunseung Jeong * 
+  - Yerin Park
 affiliations:
   - Soongsil University
-paper: "https://ojs.aaai.org/index.php/AAAI/article/view/32257"
-video: "https://youtu.be/5nSJh-IPWd0"
-code: "https://github.com/sidl-benchmark/sidl-benchmark.github.io"
-data: "https://github.com/your-repo/dataset"
+paper: "https://docs.google.com/document/d/1fkmk0LPgQTE6KMC3KGOr4r6j4S0phZdVXJ267_RFzGE/edit?usp=sharing"
+form: "https://docs.google.com/spreadsheets/d/1OCcmjEnuvRoZzQ6C6h1OrgfTmZm5b1sqrDjgzuD8rJI/edit?usp=sharing"
+ranking: "https://docs.google.com/spreadsheets/d/1OCcmjEnuvRoZzQ6C6h1OrgfTmZm5b1sqrDjgzuD8rJI/edit?usp=sharing"
 ---
 
 <body>
