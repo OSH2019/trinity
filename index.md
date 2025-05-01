@@ -10,8 +10,7 @@ authors:
 affiliations:
   - Soongsil University
 paper: "https://docs.google.com/document/d/1fkmk0LPgQTE6KMC3KGOr4r6j4S0phZdVXJ267_RFzGE/edit?usp=sharing"
-form: "https://docs.google.com/spreadsheets/d/1OCcmjEnuvRoZzQ6C6h1OrgfTmZm5b1sqrDjgzuD8rJI/edit?usp=sharing"
-ranking: "https://docs.google.com/spreadsheets/d/1OCcmjEnuvRoZzQ6C6h1OrgfTmZm5b1sqrDjgzuD8rJI/edit?usp=sharing"
+
 ---
 
 <body>
