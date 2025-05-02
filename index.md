@@ -30,12 +30,22 @@ paper: "https://docs.google.com/document/d/1fkmk0LPgQTE6KMC3KGOr4r6j4S0phZdVXJ26
   </div>
 </div>
 
+
+
 <div class="column is-four-fifths">
     <h2>스크린샷</h2>
     <hr>
     <img src = "images/메인2.png" alt = "Example 001" style="display: block; margin: auto;">
     <hr>
-    <img src = "images/버프선택2.png" alt = "Example 001" style="display: block; margin: auto;">
+    <img src = "images/버프선택2_1.png" alt = "Example 001" style="display: block; margin: auto;">
+    <hr>
+    <img src = "images/플레이어공격2_1.png" alt = "Example 001" style="display: block; margin: auto;">
+    <hr>
+    <img src = "images/보스공격2_1.png" alt = "Example 001" style="display: block; margin: auto;">
+    <hr>
+    <img src = "images/보스공격2_8.png" alt = "Example 001" style="display: block; margin: auto;">
+    <hr>
+    <img src = "images/최종화면2_1.png" alt = "Example 001" style="display: block; margin: auto;">
 
 </div>
 
